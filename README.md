@@ -5,7 +5,7 @@ ParkWhere.io is a web application that helps me predict parking availability at 
 ![image](https://github.com/SubhajitPal555/ParkWhere.io/blob/master/parkwhere_demo_gif.gif "GIF image")
 
 
-Check the Project : ![link](https://subhajitpal555-parkwhere-io-app-m99rxh.streamlit.app/)
+Check the Project : (https://subhajitpal555-parkwhere-io-app-m99rxh.streamlit.app/)
 
 (KINDLY USE ANY DATE BETWEEN 2021-2022, AS THE DATA IS TILL 2022)
 
